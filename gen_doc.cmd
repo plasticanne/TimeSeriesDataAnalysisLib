@@ -1,0 +1,1 @@
+pdoc --html --output-dir doc TimeSeriesDataAnalysisLib --force
